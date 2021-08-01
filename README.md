@@ -1,2 +1,3 @@
 # context-API
-React Custom Hook Store
+Using the Context API
+Custom Hook Store
